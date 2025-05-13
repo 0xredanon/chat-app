@@ -1,3 +1,27 @@
-*.pyc
-__pycache__
-chatroom.db
+Python
+
+pycache/ *.pyc *.pyo *.pyd .Python env/ venv/ *.egg-info/ dist/ build/ *.log
+
+SQLite Database
+
+database/chat.db
+
+Environment variables
+
+.env
+
+IDE and editor files
+
+.vscode/ .idea/ *.sublime-project *.sublime-workspace
+
+OS-specific files
+
+.DS_Store Thumbs.db
+
+Logs
+
+chat.log *.log
+
+Temporary files
+
+*.tmp *.swp
